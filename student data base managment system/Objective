@@ -1,0 +1,10 @@
+1. Objective
+To develop a Student Record Management System using a Singly Linked List in C++ that stores student details such as:
+- Roll Number
+- Name
+- Marks
+The program performs:
+1. Insertion of student records
+2. Deletion of student records
+3. Searching for a student
+4. Displaying all student records
